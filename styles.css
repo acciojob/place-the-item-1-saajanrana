@@ -1,2 +1,6 @@
-
+.flex-container {
+  display: flex;
+	direction:row;
+  justify-content: center;
+}
 /* Your CSS Code here. */
