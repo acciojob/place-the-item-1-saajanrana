@@ -1,6 +1,8 @@
 .holder {
   display: flex;
 	direction:row;
-  justify-content: center;
+  justify-content: space-between;
+	
+	
 }
 /* Your CSS Code here. */
